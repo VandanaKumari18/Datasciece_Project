@@ -1,0 +1,43 @@
+﻿Timestamp,Age,Gender,Education,Family Income,Highest level of education you want to pursue,Present City,Means of Transportation you use(most frequently),Do you want to migrate to another city or already migrated to another city,City you want to migrate to / already migrated to,Means of transportation you prefer for migration,Challenges faced in new city(if already migrated)
+2022/02/20 12:04:48 pm GMT+5:30,19,Male,Under Graduation,300000-600000,Post Graduate,Kolkata,Auto/ Electric Rickshaw,Yes,Delhi,Airplane,
+2022/02/20 6:09:47 pm GMT+5:30,19,Female,Under Graduation,100000-300000,Under Graduate,New Delhi,Ola/Uber,Yes,Kolkata,Airplane,High Rent;Non-Cooperative Landlord;Language Barrier/New Environment;Food and Transport;Homesickness;Hunting For Domestic Help
+2022/02/22 8:42:40 pm GMT+5:30,19,Female,Under Graduation,100000-300000,Under Graduate,Delhi,Metro,Yes,London,Auto/Electric Rickshaw,High Rent;Non-Cooperative Landlord;Language Barrier/New Environment;Homesickness
+2022/02/22 9:28:12 pm GMT+5:30,22,Female,Post Graduation,Less than 100000,Post Graduate,Delhi,Metro,No,,,
+2022/02/22 9:31:51 pm GMT+5:30,20,Female,Under Graduation,100000-300000,Post Graduate,Delhi,Metro,No,,,
+2022/02/22 9:35:53 pm GMT+5:30,19,Female,Under Graduation,Less than 100000,Under Graduate,Delhi ,Bicycle,No,,,
+2022/02/22 9:47:50 pm GMT+5:30,19,Male,Under Graduation,600000-800000,Post Graduate,Kolkata,Bus,Yes,Bangalore,Airplane,
+2022/02/22 9:48:15 pm GMT+5:30,19,Female,Under Graduation,600000-800000,Under Graduate,Patna,Bicycle,Yes,Pune,Personal Bike/Scooty,
+2022/02/22 9:53:28 pm GMT+5:30,34,Male,Post Graduation,300000-600000,Post Graduate,Gurgaon ,Personal Car,Yes,Gurgaon ,Personal Car,High Rent
+2022/02/22 9:54:19 pm GMT+5:30,21,Female,Under Graduation,100000-300000,Post Graduate,New Delhi,Metro,Yes,Some safer place and full of nature place like south,Airplane,
+2022/02/22 9:59:34 pm GMT+5:30,18,Female,Under Graduation,800000-1000000,Doctorate,Kolkata ,Bus,No,,,
+2022/02/22 10:06:45 pm GMT+5:30,19,Female,Under Graduation,300000-600000,Post Graduate,Greater Noida,Metro,No,,,
+2022/02/22 10:07:06 pm GMT+5:30,19,Female,Under Graduation,Less than 100000,Doctorate,New Delhi,Metro,Yes,Bangalore ,Airplane,
+2022/02/22 10:07:54 pm GMT+5:30,20,Female,Intermediate,800000-1000000,Under Graduate,Kolkata,Bus,No,,,
+2022/02/22 10:10:44 pm GMT+5:30,18,Female,Under Graduation,More than 1000000,Under Graduate,Noida,Metro,No,,,
+2022/02/22 10:11:55 pm GMT+5:30,23,Male,Post Graduation,More than 1000000,Post Graduate,New Delhi,Personal Bike/Scooty,No,,,
+2022/02/22 10:12:13 pm GMT+5:30,19,Female,Under Graduation,800000-1000000,Post Graduate,Kolkata,Bus,Yes,Bangalore ,Airplane,
+2022/02/22 10:20:26 pm GMT+5:30,20,Male,Under Graduation,More than 1000000,Post Graduate,Kolkata,Personal Car,No,,,
+2022/02/22 10:24:07 pm GMT+5:30,19,Female,Under Graduation,Less than 100000,Doctorate,Kolkata ,Bus,No,,,
+2022/02/22 10:28:37 pm GMT+5:30,39,Male,Under Graduation,300000-600000,Post Graduate,Noida,Personal Bike/Scooty,Yes,Pune,Bus,High Rent
+2022/02/22 10:46:54 pm GMT+5:30,19,Male,Under Graduation,600000-800000,Post Graduate,Kolkata,Bus,Yes,"Mumbai, Bangalore",Airplane,High Rent;Language Barrier/New Environment;Food and Transport
+2022/02/22 11:05:23 pm GMT+5:30,20,Male,Under Graduation,600000-800000,Post Graduate,Kolkata,Bus,Yes,Delhi/Mumbai/Bangalore,Airplane,
+2022/02/22 11:18:24 pm GMT+5:30,19,Male,Under Graduation,800000-1000000,Post Graduate,Kolkata ,Bus,Yes,Hyderabad ,Airplane,High Rent
+2022/02/22 11:30:30 pm GMT+5:30,18,Female,Under Graduation,600000-800000,Doctorate,Delhi ,Ola/Uber,Yes,Doha ,Airplane,Homesickness
+2022/02/22 11:34:18 pm GMT+5:30,20,Male,Under Graduation,300000-600000,Doctorate,Kolkata,Bus,Yes,Bangalore,Airplane,
+2022/02/22 11:39:24 pm GMT+5:30,18,Female,Under Graduation,100000-300000,Post Graduate,Kolkata ,Auto/ Electric Rickshaw,Yes,Kalyani,Personal Car,
+2022/02/22 11:44:47 pm GMT+5:30,19,Female,Under Graduation,More than 1000000,Post Graduate,Kolkata,Bicycle,Yes,Bangalore,Airplane,High Rent
+2022/02/23 12:07:19 am GMT+5:30,19,Male,Under Graduation,600000-800000,Post Graduate,Kolkata,Auto/ Electric Rickshaw,Yes,Delhi,Airplane,
+2022/02/23 12:28:43 am GMT+5:30,19,Male,Under Graduation,600000-800000,Doctorate,Kolkata,Bus,No,,,
+2022/02/23 12:50:36 am GMT+5:30,19,Male,Under Graduation,100000-300000,Doctorate,"Patna, Bihar ",Bicycle,No,,,
+2022/02/23 1:49:25 am GMT+5:30,18,Male,Under Graduation,Less than 100000,Post Graduate,Jamshedpur ,Auto/ Electric Rickshaw,Yes,Jamshedpur ,Bus,High Rent;Food and Transport
+2022/02/23 10:22:38 am GMT+5:30,18,Male,Under Graduation,More than 1000000,Under Graduate,Kolkata ,Personal Car,Yes,Bhubaneswar ,Airplane,High Rent
+2022/02/23 10:26:04 am GMT+5:30,19,Male,Under Graduation,100000-300000,Post Graduate,Kolkata,Bus,No,,,
+2022/02/23 10:57:07 am GMT+5:30,19,Male,Under Graduation,Less than 100000,Under Graduate,Kolkata,Bus,Yes,Bhubneshwar or  Mumbai,Airplane,High Rent;Food and Transport
+2022/02/23 11:00:24 am GMT+5:30,20,Male,Under Graduation,300000-600000,Doctorate,Kolkata ,Auto/ Electric Rickshaw,No,,,
+2022/02/23 11:46:13 am GMT+5:30,20,Male,Intermediate,Less than 100000,Doctorate,Kolkata,Bus,Yes,Darjeeling,Bus,
+2022/02/23 2:10:45 pm GMT+5:30,18,Female,Under Graduation,600000-800000,Post Graduate,Delhi,Ola/Uber,Yes,Jaipur,Bus,High Rent
+2022/02/23 4:07:20 pm GMT+5:30,18,Male,Under Graduation,600000-800000,Doctorate,Kolkata,Bus,No,,,
+2022/02/25 9:38:44 pm GMT+5:30,19,Male,Under Graduation,300000-600000,Post Graduate,Bangalore,Personal Bike/Scooty,No,,,
+2022/03/02 8:07:34 am GMT+5:30,20,Female,Under Graduation,300000-600000,Post Graduate,Bhopal ,Personal Bike/Scooty,Yes,Yes,Bus,Food and Transport
+2022/03/02 2:52:34 pm GMT+5:30,20,Male,Under Graduation,600000-800000,Post Graduate,Pune,Bus,Yes,Pune,Bus,High Rent;Food and Transport
+2022/04/02 12:34:10 am GMT+5:30,19,Male,Under Graduation,100000-300000,Doctorate,Kolkata,Bus,No,,,

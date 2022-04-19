@@ -15,7 +15,7 @@
 
 **Packages**: numpy, pandas, os, matplotlib, xlrd, pylab
 
-**Data Used:** _(Link)_
+**Data Used:** _(https://github.com/VandanaKumari18/Datasciece_Project/blob/main/data.csv)_
 
 ## Data collected consists
 
